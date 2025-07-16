@@ -22,9 +22,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📸 Preview
 
-| Default | Expanded |
-|--------|----------|
-| ![Bottom Bar](https://github.com/Raj3448/flutter_animated_navkit/raw/main/flutter_animated_navkit/assets/animated_nav.gif) | ![Expanded Menu](https://github.com/Raj3448/flutter_animated_navkit/raw/main/flutter_animated_navkit/assets/expanded_view.gif) |
+| Expanded | Default |
+|----------|---------|
+| ![Expanded Menu](https://github.com/Raj3448/flutter_animated_navkit/raw/main/flutter_animated_navkit/assets/expanded_view.gif) | ![Bottom Bar](https://github.com/Raj3448/flutter_animated_navkit/raw/main/flutter_animated_navkit/assets/animated_nav.gif) |
+
 
 
 ---
