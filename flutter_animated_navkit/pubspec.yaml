@@ -1,8 +1,10 @@
 name: flutter_animated_navkit
 description: A customizable animated bottom navigation bar with expandable hexagonal notch for Flutter apps.
 version: 1.0.0
-homepage:
+homepage: https://github.com/Raj3448/flutter_animated_navkit
 license: MIT
+repository: https://github.com/Raj3448/flutter_animated_navkit
+issue_tracker: https://github.com/Raj3448/flutter_animated_navkit/issues
 
 environment:
   sdk: ^3.6.2
