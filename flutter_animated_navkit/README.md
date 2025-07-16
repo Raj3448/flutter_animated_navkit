@@ -21,7 +21,7 @@ A beautifully animated and customizable Flutter bottom navigation kit with a uni
 
 | Default | Expanded |
 |--------|----------|
-| ![Bottom Bar](https://raw.githubusercontent.com/your-username/flutter_animated_navkit/main/assets/bottom_nav.gif) | ![Expanded Menu](https://raw.githubusercontent.com/yourusername/flutter_animated_navkit/main/assets/expanded_menu.gif) |
+| ![Bottom Bar](https://github.com/Raj3448/flutter_animated_navkit/raw/main/flutter_animated_navkit/assets/animated_nav.gif) | ![Expanded Menu](https://github.com/Raj3448/flutter_animated_navkit/raw/main/flutter_animated_navkit/assets/expanded_view.gif) |
 
 
 ---
