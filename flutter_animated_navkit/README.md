@@ -4,6 +4,9 @@ A beautifully animated and customizable Flutter bottom navigation kit with a uni
 
 `flutter_animated_navkit` enhances your app's UI by offering a playful, animated, and modern bottom navigation bar designed with customization in mind. Ideal for both Android and iOS platforms.
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
 
 ## ✨ Features
