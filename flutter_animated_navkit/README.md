@@ -23,7 +23,6 @@ A beautifully animated and customizable Flutter bottom navigation kit with a uni
 |--------|----------|
 | ![Bottom Bar](https://raw.githubusercontent.com/your-username/flutter_animated_navkit/main/assets/bottom_nav.gif) | ![Expanded Menu](https://raw.githubusercontent.com/yourusername/flutter_animated_navkit/main/assets/expanded_menu.gif) |
 
-> Replace these URLs with actual GIFs hosted on GitHub.
 
 ---
 
